@@ -3,6 +3,7 @@
 ##An app created using node to allow the user to create, save and delete notes.
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+![PyPI - License](https://img.shields.io/pypi/l/node?label=BSD%202-Clause)
 
 ## Table of Contents
   * [Description](#description)
