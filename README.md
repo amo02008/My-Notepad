@@ -19,6 +19,9 @@ There is noting to use to install. Click the link() to deploy thee app.
 ## Usage
 Once you have deployed the app click the get started button. Give your not a title by clicking Note title. Beneath your title add your note. You can save the note clicking the sve icon (to the left of the pencil). To delete your note click on the trash can.
 
+![inital-image](./public/assets/images/my-notepad.png)
+![list-image](./piblic/assets/images/list.png)
+
 ## License
 BSD 2-Clause
 
