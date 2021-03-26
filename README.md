@@ -14,7 +14,7 @@
   
 
 ## Installation
-There is noting to use to install. Click the link() to deploy thee app.
+There is noting to use to install. Click the [link]("https://github.com/amo02008/My-Notepad") to deploy thee app.
 
 ## Usage
 Once you have deployed the app click the get started button. Give your not a title by clicking Note title. Beneath your title add your note. You can save the note clicking the sve icon (to the left of the pencil). To delete your note click on the trash can.
