@@ -14,10 +14,10 @@ An app created using node to allow the user to create, save and delete notes.
   
 
 ## Installation
-There is noting to use to install. Click the [link](https://github.com/amo02008/My-Notepad) to deploy thee app.
+There is nothing to install. Click the [link](https://github.com/amo02008/My-Notepad) to deploy the app.
 
 ## Usage
-Once you have deployed the app click the get started button. Give your not a title by clicking Note title. Beneath your title add your note. You can save the note clicking the sve icon (to the left of the pencil). To delete your note click on the trash can.
+Once you have deployed the app click the get started button. Give your note a title by clicking Note title. Beneath your title add your note. You can save the note clicking the save icon (to the left of the pencil). To delete your note click on the trash can.
 
 
 <img src="./public/assets/images/my-notepad.png" width="500">
